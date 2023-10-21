@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Golden Cars</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter&family=Mohave:wght@600&family=Tajawal&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter&family=Mohave:wght@600&family=Poppins:wght@700&family=Tajawal&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header>
+      <div>
+        <a href="./index.html"
+          ><img id="carLogo" src="./g3 - Copy 1.png" alt="goldenCarsLogo"
+        /></a>
+      </div>
+
+      <div id="threelinks">
+        <ul>
+          <li>
+            <a href="./products.html"> Products </a>
+          </li>
+          <li>
+            <a href="./services.html"> Services </a>
+          </li>
+          <li>
+            <a href="./aboutus.html"> About US </a>
+          </li>
+        </ul>
+      </div>
+
+      <div><a id="contactusfont" href="./contactus.html"> Contact US </a></div>
+    </header>
+    <hr
+      style="
+        height: 0.1px;
+        border-width: 0;
+        color: #ffffffe0;
+        background-color: gray;
+      "
+    />
+    <div class="container">
+      <div class="textBox">
+        <h1>Golden Cars</h1>
+        <p>
+          Please enter your email address, and we'll notify you as soon as the
+          website becomes accessible.
+        </p>
+      </div>
+      <form action="/submit" method="post">
+        <input
+          id="inputBox"
+          type="text"
+          placeholder="Enter your email address"
+          required
+        />
+        <input id="submitButton" type="submit" value="Submit" />
+      </form>
+      <img id="carPicture" src="/goldencars/Group 5.png" alt="CarPic" />
+    </div>
+  </body>
+</html>

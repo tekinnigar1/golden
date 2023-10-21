@@ -1,0 +1,136 @@
+body {
+  margin: 0%;
+    background-color: black;
+padding: -3px;  
+background-size: cover;  
+font-family: sans-serif;  
+overflow-x: hidden;
+
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+}
+
+#submitButton {
+    border-radius: 29px;
+    border: none;
+    height: 27px;
+    margin-right: 10px;
+}
+#inputBox {
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+    width: 200px;
+    color: #FFFFFF80;
+    background-color: black;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Mohave', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Tajawal', sans-serif;
+    font-size: 16px;
+}
+form {
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    align-content: center;
+    border: 1px solid #FFFFFFE0;
+    border-radius: 20px;
+    height: 35px;
+}
+
+#contactusfont {
+    text-decoration: none;
+    color: #FFFFFFE0;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Mohave', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Tajawal', sans-serif;
+   
+}
+p {
+    font-weight: lighter;
+    color: #FFFFFF80;
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Mohave', sans-serif;
+    font-family: 'Tajawal', sans-serif;
+    margin-top: -46px;
+    margin-left: 20px;
+}
+h1 {
+    font-size: 64px;
+    font-family: 'Inter', sans-serif;
+font-family: 'Mohave', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Tajawal', sans-serif;
+color: #FFFFFFE0;
+}
+.textBox {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    color: #FFFFFFE0;
+    width:380px;
+}
+
+ul {
+    display: flex;
+justify-content: center;
+padding-inline-start: 0;
+}
+#threelinks {
+   
+   display: inline;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Mohave', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Tajawal', sans-serif;
+
+}
+#carPicture {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    margin-bottom: 0%;
+    margin-top: 126px;
+    
+}
+header {  
+
+    background-color: black;
+    left: 0;  
+    right: 0;  
+    height: 80px;  
+    display: flex; 
+    flex-direction: row; 
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 0 25px 0 black; 
+    font-weight: lighter; 
+    padding-right: 20px;
+    padding-left: 20px;
+    }  
+    header li a {  
+        color: #FFFFFFE0;  
+        text-decoration: none;  
+        }  
+
+        header li {  
+            margin: 5px;  
+            } 
+
+a:hover {
+  color: rgb(68, 62, 62);
+}
+
+       
+
+
