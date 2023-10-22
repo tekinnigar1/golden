@@ -50,6 +50,7 @@ form {
 
 #contactusfont {
     text-decoration: none;
+  font-size: 16px;
     color: #FFFFFFE0;
     font-family: 'Inter', sans-serif;
     font-family: 'Mohave', sans-serif;
@@ -93,6 +94,7 @@ list-style-type: none;
 #threelinks {
    
    display: inline;
+  font-size: 16px;
     font-family: 'Inter', sans-serif;
     font-family: 'Mohave', sans-serif;
     font-family: 'Poppins', sans-serif;
