@@ -143,9 +143,7 @@ footer {
 }
 
 @media only screen and (max-width: 600px) {
-    body {
-      background-color: lightblue;
-    }
+   
     #threelinks {
    
         display: none;
