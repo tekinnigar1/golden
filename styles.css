@@ -53,9 +53,7 @@ form {
   font-size: 16px;
     color: #FFFFFFE0;
     font-family: 'Inter', sans-serif;
-    font-family: 'Mohave', sans-serif;
-    font-family: 'Poppins', sans-serif;
-    font-family: 'Tajawal', sans-serif;
+   
    
 }
 p {
@@ -71,9 +69,7 @@ p {
 h1 {
     font-size: 64px;
     font-family: 'Inter', sans-serif;
-font-family: 'Mohave', sans-serif;
-font-family: 'Poppins', sans-serif;
-font-family: 'Tajawal', sans-serif;
+
 color: #FFFFFFE0;
 }
 .textBox {
@@ -96,9 +92,7 @@ list-style-type: none;
    display: inline;
   font-size: 16px;
     font-family: 'Inter', sans-serif;
-    font-family: 'Mohave', sans-serif;
-    font-family: 'Poppins', sans-serif;
-    font-family: 'Tajawal', sans-serif;
+    
 
 }
 #carPicture {
