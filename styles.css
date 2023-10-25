@@ -64,10 +64,9 @@ p {
 }
 h1 {
     font-size: 64px;
-    font-family: 'Inter', sans-serif;
-text-align: center;
-
-color: #FFFFFFE0;
+    color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
 }
 .textBox {
    display: flex;
