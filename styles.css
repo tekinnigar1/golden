@@ -65,9 +65,8 @@ p {
 h1 {
     font-size: 64px;
     font-family: 'Inter', sans-serif;
-  ont-family: 'Mohave', sans-serif;
-font-family: 'Poppins', sans-serif;
-font-family: 'Tajawal', sans-serif;
+text-align: center;
+
 color: #FFFFFFE0;
 }
 .textBox {
