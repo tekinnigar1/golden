@@ -28,9 +28,6 @@ overflow-x: hidden;
     color: #FFFFFF80;
     background-color: black;
     font-family: 'Inter', sans-serif;
-    font-family: 'Mohave', sans-serif;
-    font-family: 'Poppins', sans-serif;
-    font-family: 'Tajawal', sans-serif;
     font-size: 16px;
     height: 30px;
 }
@@ -40,7 +37,7 @@ form {
     align-items:center;
     align-content: center;
     border: 1px solid #FFFFFFE0;
-    border-radius: 30px;
+    border-radius: 20px;
     height: 40px;
     padding: 3px;
 }
@@ -50,10 +47,10 @@ form {
 
 #contactusfont {
     text-decoration: none;
-  font-size: 16px;
+    font-size: 16px;
     color: #FFFFFFE0;
     font-family: 'Inter', sans-serif;
-   
+    
    
 }
 p {
@@ -61,15 +58,13 @@ p {
     color: #FFFFFF80;
     font-size: 18px;
     font-family: 'Inter', sans-serif;
-    font-family: 'Mohave', sans-serif;
-    font-family: 'Tajawal', sans-serif;
+   
     margin-top: -46px;
     margin-left: 20px;
 }
 h1 {
     font-size: 64px;
     font-family: 'Inter', sans-serif;
-
 color: #FFFFFFE0;
 }
 .textBox {
@@ -90,9 +85,9 @@ list-style-type: none;
 #threelinks {
    
    display: inline;
-  font-size: 16px;
+   font-size: 16px;
     font-family: 'Inter', sans-serif;
-    
+   
 
 }
 #carPicture {
@@ -139,11 +134,9 @@ footer {
 }
 
 @media only screen and (max-width: 600px) {
-
-  body,.container {
+    body,.container {
         overflow: hidden;    
     }
-  
     #threelinks {
    
         display: none;
@@ -155,13 +148,10 @@ footer {
     header {
         justify-content: center;
     }
-   #carPicture {
+    #carPicture {
         width: 1289.97px;
         height:316px;
 
   }
-  }
 
-       
-
-
+}   
